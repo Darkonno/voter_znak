@@ -12,4 +12,4 @@ for naum_fofto in neim:
     position = (hard, shir)
     fofto.paste(mark, position, mask=mark)
     fofto.save(os.path.join('гот', f"{i}.jpg" ))
-print("готово")
+print("Complite   9")
